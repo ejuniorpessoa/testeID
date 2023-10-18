@@ -1,0 +1,32 @@
+{
+  "pessoas": [
+    {
+      "id": "1",
+      "nome": "Jordan Flynn",
+      "cpf": "66410288299",
+      "telefone": "16511361464",
+      "ativo": "false"
+    },
+    {
+      "id": "2",
+      "nome": "Tin Harvey",
+      "cpf": "00881787173",
+      "telefone": "68546418850",
+      "ativo": "true"
+    },
+    {
+      "id": "3",
+      "nome": "Rordane Flynn",
+      "cpf": "66410288299",
+      "telefone": "16211361464",
+      "ativo": "false"
+    },
+    {
+      "id": "4",
+      "nome": "Jina Harvey",
+      "cpf": "00881787173",
+      "telefone": "68546418850",
+      "ativo": "true"
+    }
+  ]
+}
